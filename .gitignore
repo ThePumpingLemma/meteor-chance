@@ -29,5 +29,6 @@ node_modules
 
 # Meteor build files.
 .build*
+.npm
 versions.json
 
