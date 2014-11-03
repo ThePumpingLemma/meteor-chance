@@ -1,6 +1,6 @@
 Package.describe({
   name: 'thepumpinglemma:chance',
-  summary: 'Meteor package that wraps the Chance.js NPM package.',
+  summary: 'Meteor package that wraps the Chance.js NPM package. See http://chancejs.com/ for more details.',
   version: '1.0.0',
   git: 'https://github.com/ThePumpingLemma/meteor-chance.git'
 });
