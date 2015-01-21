@@ -1,12 +1,12 @@
 Package.describe({
   name: 'thepumpinglemma:chance',
   summary: 'Meteor package that wraps the Chance.js NPM package. See http://chancejs.com/ for more details.',
-  version: '1.0.0',
+  version: '1.1.0',
   git: 'https://github.com/ThePumpingLemma/meteor-chance.git'
 });
 
 Npm.depends({
-  'chance': '0.6.1'
+  'chance': '0.7.1'
 });
 
 Package.onUse(function(api) {
